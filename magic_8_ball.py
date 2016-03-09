@@ -20,6 +20,6 @@ def main():
 	else:
 		print("I don't think so!")
 
-
+#init
 if __name__ == "__main__":
 	main()
